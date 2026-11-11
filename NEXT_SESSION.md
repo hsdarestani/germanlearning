@@ -1,29 +1,26 @@
 # NEXT SESSION — authoritative handoff
 
 **Last updated:** 2026-11-11
-**Current session:** 001 — Present tense and simple sentences (**introduced, not completed**)
-**Placement:** written results checked, provisional Pre-A1 / entry A1. Speaking, listening, reading not tested.
+**Current session:** 001 — Present tense, yes/no questions and short introduction (**written drill evaluated; lesson not fully completed**)
+**Approximate current level:** Pre-A1 / beginning A1 based only on written evidence. Voice, listening, pronunciation and reading still unassessed.
 
-## Resume in exactly this order
-1. Read [README.md](README.md), [PROGRESS.md](PROGRESS.md), [sessions/000-placement.md](sessions/000-placement.md), and [sessions/001-present-tense-and-word-order.md](sessions/001-present-tense-and-word-order.md).
-2. **Do not repeat placement questions.** Written baseline was already evaluated: 1/3 verb inflections correct; the student needs conjugation, capitalization, spelling and sentence structure.
-3. The tutor already explained:
-   - `lernen` present tense forms: ich lerne, du lernst, er lernt, wir lernen, ihr lernt, sie/Sie lernen;
-   - declarative verb in position 2 (`Ich lerne Deutsch.`);
-   - yes/no question starts with verb (`Lernst du Deutsch?`).
-   - Sources: K&K Steps 1 and 3 (printed pages 10–15); PMP Ch. 6 (present tense).
-4. **Await learner answers to four lesson-001 conjugations and question formation** (below), plus two short writing sentences. Correct each explicitly, then conduct voice speaking and a brief reading/listening exercise.
-5. Update [MISTAKES.md](MISTAKES.md) with new observed errors (don't label an error recurring after one occurrence); update [VOCABULARY.md](VOCABULARY.md) only with evidence.
-6. After the lesson, verify commits and update this `NEXT_SESSION.md` **last**.
+## Confirmed completed interactions
+1. Placement written answers corrected; baseline written grammar score 1/3.
+2. Explained regular present-tense conjugation, verb-second statements and verb-first yes/no questions from Klipp und Klar Steps 1 and 3 (printed pp. 10–15) and Practice Makes Perfect Ch. 6.
+3. Student submitted lesson 001 practice, and tutor gave feedback:
+   - **2/4 correct verb forms**: `ich lerne` and `er hat` correct; `wir kommst` → `wir kommen`; `du lernt` → `du lernst`.
+   - **1/1 correct yes/no question**: `Lernst du Deutsch?`.
+   - 2 meaningful but incorrect independent sentences: a misspelling of `Ich heiße ...` (name deliberately omitted in public repository); `Ich lernst deutsch` → `Ich lerne Deutsch.`.
+   - Follow-up errors to target: regular endings `ich -e`, `du -st`, `er -t`, `wir -en`; `heiße` spelling and capitalization of `Deutsch`.
+   - `er hat` improved from placement, but not yet mastered.
 
-## Lesson 001 exercises awaiting answers
-- `Ich ___ Deutsch.` (lernen)
-- `Er ___ Zeit.` (haben)
-- `Wir ___ aus Berlin.` (kommen)
-- `Du ___ Deutsch.` (lernen)
-- Turn `Du lernst Deutsch.` into a yes/no question.
-- Two short sentences: say your name and that you learn German (avoid raw personal text in public repository).
-- Speaking: `Wie heißt du?` / `Lernst du Deutsch?` (voice if possible).
+## Exact next turn
+**Continue a paced introductory German conversation, question by question.** The tutor has just invited the learner to answer `Wie heißt du?` in German, preferably through ChatGPT Voice if available (or typed if not). Correct the answer gently; follow with `Lernst du Deutsch?` and `Woher kommst du?` at the appropriate level, avoiding invented pronunciation feedback on typed text.
 
-## Exact next action
-**Get student's lesson 001 answers and correct them; lesson 001 is not marked completed.** In subsequent turns add reading/listening/pronunciation exercises and close open placement modalities.
+Then add short reading comprehension and a genuine listening activity (only when audible input/output is actually available), and a new mixed-person conjugation micro-drill. Never claim these are assessed before the learner participates.
+
+## First files for future-chat recovery
+Read [README.md](README.md), [PROGRESS.md](PROGRESS.md), [sessions/000-placement.md](sessions/000-placement.md), [sessions/001-present-tense-and-word-order.md](sessions/001-present-tense-and-word-order.md), [MISTAKES.md](MISTAKES.md), and [VOCABULARY.md](VOCABULARY.md). **Do not repeat previously answered exercises** unless as spaced recall.
+
+## Update protocol
+At the end of the next interaction: record actual evidence, correct new errors, and update lesson/progress, then refresh this file **last**. Do not mark lesson 001 mastered without meaningful independent practice; don't imply voice or listening was tested from text responses.
