@@ -1,20 +1,20 @@
 # Learning Progress
 
 **Last verified update:** 2026-11-11
-**Course stage:** 00 — Placement / تعیین سطح
-**Placement result:** Not assessed yet
-**Last completed learning lesson:** None
-**Last actual interaction:** Study system agreed and two reference books supplied. No placement answers received yet.
+**Course stage:** 01 — First lesson introduced; practice not yet checked
+**Placement result:** Very early A1 entry / Pre-A1 (provisional, **written evidence only**)
+**Last completed learning lesson:** None (lesson 001 is in progress)
+**Last actual interaction:** Student submitted written placement responses. Teacher corrected them and explained first lesson (regular present-tense verb conjugation and basic statements/yes-no questions). Speaking, reading and listening unassessed.
 
 ## Skill dashboard
 | Skill | Demonstrated level | Evidence | Next action |
 |---|---|---|---|
-| Speaking / Sprechen | Not assessed | No recorded/observed spoken answers | Short guided voice dialogue |
-| Writing / Schreiben | Not assessed | Placement writing pending | 3–5 sentence self-introduction |
+| Speaking / Sprechen | Not assessed | No spoken audio yet | Short guided voice dialogue |
+| Writing / Schreiben | Emerging beginner / Pre-A1 | One fragmentary self-introduction; no complete sentences | Produce 2–3 independent sentences |
 | Listening / Hören | Not assessed | No listening test | Short spoken prompt + comprehension |
 | Reading / Lesen | Not assessed | No reading test | Short passage with comprehension |
-| Grammar / Grammatik | Not assessed | Placement grammar pending | Present-tense verbs + sentence construction |
-| Vocabulary / Wortschatz | Not assessed | No individual vocabulary test | Check foundational vocabulary in context |
+| Grammar / Grammatik | Emerging beginner / Pre-A1 | 1/3 conjugations correct: ich+kommen correct, er+haben and wir+lernen incorrect | Independent present-tense conjugation drill |
+| Vocabulary / Wortschatz | Very limited observed productive vocabulary | Recognized a few basic personal/verb words; misspelled Deutsch | Practice verbs and short introductions in context |
 | Pronunciation / Aussprache | Not assessed | No voice sample | Assess during voice session |
 
 ## Completion rules
@@ -28,7 +28,8 @@
 ## Lessons logged
 | Session | Date | Status | Topic |
 |---|---|---|---|
-| 000 | 2026-11-11 | Awaiting student answers | Baseline placement |
+| 000 | 2026-11-11 | Written answers evaluated; oral/listening/reading pending | Baseline placement |
+| 001 | 2026-11-11 | Introduced; awaiting learner practice | Present tense, basic word order |
 
 ## Update template
 - Lesson completed:
