@@ -50,3 +50,8 @@ Tutor asked `Wo wohnst du?`. Learner answered `Hallo. Ich wohne Iran.` The answe
 - Learner answered `Ja ich arbeite heute`, a correct conjugation, verb position and time adverb; minor punctuation correction to `Ja, ich arbeite heute.`
 - Tutor introduced `heute` (today) and `morgen` (tomorrow), and asked `Wo arbeitest du?` with a generic optional reply `Ich arbeite zu Hause.`
 - Next learner answer to `Wo arbeitest du?` is pending. Respect privacy; don't record a personal employer or exact place in the public repo.
+
+## Follow-up — Wo arbeitest du? (2026-11-14)
+- Learner responded `Ich arbeite remote zu hause`. Good understandable sentence, correctly inflected `ich arbeite`, only noun `Hause` needs capitalization.
+- Tutor corrected to `Ich arbeite remote zu Hause.`; offered idiomatic alternatives `Ich arbeite im Homeoffice.` / `Ich arbeite von zu Hause aus.`
+- Homework/next step: respond to `Arbeitest du morgen auch?` without copying a model. Colors/reading/listening still pending.
