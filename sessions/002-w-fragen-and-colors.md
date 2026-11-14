@@ -27,3 +27,11 @@ Tutor asked `Wo wohnst du?`. Learner answered `Hallo. Ich wohne Iran.` The answe
 - [ ] Color terms practiced and recalled
 - [ ] Short reading and listening checks
 - [ ] Feedback and review
+
+
+## Subsequent dialogue (2026-11-14)
+- Tutor asked learner to ask the German question "Where do you live?" without copying a full model answer immediately.
+- Learner answered `wo wohnst du?` — **correct grammatical W-question**, with minor written capitalization correction `Wo wohnst du?`.
+- Tutor provided a role-play location answer `Ich wohne in Berlin.` (a teacher example, not factual residence) and introduced `Was machst du?`, glossed "What are you doing?" / "What do you do?".
+- Next learner response is pending for `Was machst du?`; the suggested response `Ich lerne Deutsch.` was shown by tutor, so recall after this model is prompted, not independent.
+- Distinguishing `Wo?` versus `Woher?` has been explained but not separately tested without cues.
