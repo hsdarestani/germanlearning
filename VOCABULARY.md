@@ -17,6 +17,10 @@
 | 2026-11-14 | wo | کجا | Wo wohnst du? | Introduced lesson 002; recall pending |
 | 2026-11-14 | rot / blau / grün | قرمز / آبی / سبز | Das Auto ist rot. | Supplemental color words introduced; recall pending |
 
+| 2026-11-14 | zu Hause / von zu Hause aus | در خانه / از خانه | Ich arbeite von zu Hause aus. | `zu Hause` used with capitalization error; review |
+| 2026-11-14 | das Homeoffice | دورکاری / دفتر خانگی | Ich arbeite im Homeoffice. | Introduced; recall untested |
+| 2026-11-14 | morgen | فردا | Arbeitest du morgen? | Introduced earlier in lesson 002; recall untested |
+
 ## Rules
 - For nouns, capture `der/die/das`, plural and one contextual sentence.
 - For verbs, note infinitive and irregular forms when they matter.
