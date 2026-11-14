@@ -41,3 +41,7 @@ Tutor asked `Wo wohnst du?`. Learner answered `Hallo. Ich wohne Iran.` The answe
 - Correction: `Ich arbeite.` The present-tense lexical verb is conjugated directly; no auxiliary `bin` in this present-tense construction. Contrast `Ich bin bei der Arbeit.` (I am at work), a separate expression.
 - Teaching examples: `ich arbeite`, `du arbeitest`, `er arbeitet` (stem ends in -t, so -est/-et endings).
 - Status: learner has received correction, but has not yet independently reproduced the form.
+
+## Follow-up on Ich arbeite
+- After correction of `Ich bin arbeite`, learner successfully reproduced `Ich arbeite` independently in the next turn. Immediate correction retained; long-term mastery not established.
+- Tutor next asked `Arbeitest du heute?` (Do you work today?), giving Ja/Nein as a response scaffold. Awaiting learner response.
