@@ -17,6 +17,8 @@ Log only actual learner errors, and avoid publishing sensitive or identifying pe
 | 2026-11-12 | W-question | Started with English `Where` instead of German `Woher` | `Woher kommst du?` (origin); `Wo wohnst du?` (location) | Lesson 002 | Corrected within session; monitor |
 | 2026-11-12 | Question word order | Used statement `Du lernst Deutsch` when asked for a yes/no question | Verb first: `Lernst du Deutsch?` | Later unscripted question | Corrected in same session |
 
+| 2026-11-14 | Prepositions/articles: location | Said `Ich wohne Iran` after `Wo wohnst du?` | `Ich wohne im Iran` for residence; contrast `Ich komme aus dem Iran` for origin. `im = in dem` | Next independent response | Observed once; not yet mastered |
+
 ## Logging method
 - Quote a short **non-sensitive** learner-created fragment only when needed to explain a correction.
 - Separate one-off typos from **recurring patterns**.
