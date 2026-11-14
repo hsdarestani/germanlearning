@@ -45,3 +45,8 @@ Tutor asked `Wo wohnst du?`. Learner answered `Hallo. Ich wohne Iran.` The answe
 ## Follow-up on Ich arbeite
 - After correction of `Ich bin arbeite`, learner successfully reproduced `Ich arbeite` independently in the next turn. Immediate correction retained; long-term mastery not established.
 - Tutor next asked `Arbeitest du heute?` (Do you work today?), giving Ja/Nein as a response scaffold. Awaiting learner response.
+
+## Follow-up — Arbeitest du heute?
+- Learner answered `Ja ich arbeite heute`, a correct conjugation, verb position and time adverb; minor punctuation correction to `Ja, ich arbeite heute.`
+- Tutor introduced `heute` (today) and `morgen` (tomorrow), and asked `Wo arbeitest du?` with a generic optional reply `Ich arbeite zu Hause.`
+- Next learner answer to `Wo arbeitest du?` is pending. Respect privacy; don't record a personal employer or exact place in the public repo.
