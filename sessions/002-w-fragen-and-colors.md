@@ -35,3 +35,9 @@ Tutor asked `Wo wohnst du?`. Learner answered `Hallo. Ich wohne Iran.` The answe
 - Tutor provided a role-play location answer `Ich wohne in Berlin.` (a teacher example, not factual residence) and introduced `Was machst du?`, glossed "What are you doing?" / "What do you do?".
 - Next learner response is pending for `Was machst du?`; the suggested response `Ich lerne Deutsch.` was shown by tutor, so recall after this model is prompted, not independent.
 - Distinguishing `Wo?` versus `Woher?` has been explained but not separately tested without cues.
+
+## Conversation follow-up — antworten auf „Was machst du?“
+- Learner said `Ich bin arbeite`.
+- Correction: `Ich arbeite.` The present-tense lexical verb is conjugated directly; no auxiliary `bin` in this present-tense construction. Contrast `Ich bin bei der Arbeit.` (I am at work), a separate expression.
+- Teaching examples: `ich arbeite`, `du arbeitest`, `er arbeitet` (stem ends in -t, so -est/-et endings).
+- Status: learner has received correction, but has not yet independently reproduced the form.
