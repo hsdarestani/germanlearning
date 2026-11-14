@@ -4,6 +4,8 @@
 **Course stage:** 02 — W-questions, basic verbs, color vocabulary; new lesson just introduced
 **Placement result:** Very early A1 entry / Pre-A1 (provisional, **written evidence only**)
 **Last completed learning lesson:** 001 — beginner self-introduction and yes/no question objectives achieved with guided practice (2026-11-12); mastery of conjugation, reading and independent listening remain pending
+**Recent session 002:** Answered `Wo arbeitest du?` with an intelligible present-tense work-from-home sentence and correctly used `ich arbeite`; capitalization of `zu Hause` corrected. No claim of independent mastery of new Homeoffice expression.
+
 **Last actual interaction:** In 2026-11-12 voice conversation the learner produced a correct short self-introduction (name, origin, learning German), corrected `aus der Iran` to `aus dem Iran`, successfully asked `Lernst du Deutsch?` after prompting, self-answered `Ja, ich lerne Deutsch`, and correctly repeated `Woher kommst du?` and `Ich komme aus dem Iran`. Voice transcripts support intelligible utterance content, **not objective pronunciation scoring**. No independent formal reading/listening assessment. Lesson 002 opened 2026-11-14, learner answer pending.
 
 ## Skill dashboard
