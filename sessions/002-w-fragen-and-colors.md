@@ -16,14 +16,12 @@
 - Introduce 3 colors in simple context: rot (red), blau (blue), grün (green). Do not mark as acquired.
 - Continue oral Q&A one question per turn; text-only transcripts can evidence utterance content but not definitive articulation accuracy.
 
-## First interaction pending
-Teacher asks one spontaneous German question: `Wo wohnst du?`
-Expected response type: `Ich wohne in ...` (city name supplied by learner; do not save the identifying city to public GitHub).
-Follow up after student answer with a new question and small writing/grammar drill. Do not preemptively score.
+## First response (2026-11-14)
+Tutor asked `Wo wohnst du?`. Learner answered `Hallo. Ich wohne Iran.` The answer conveyed the intended country, but omitted the required preposition/article. Corrected to `Ich wohne im Iran.` (`im = in dem`; country Iran takes masculine article in this use). Tutor contrasted `Ich komme aus dem Iran` (origin) and `Ich wohne im Iran` (residence). Next: let learner independently form `Wo wohnst du?` as a question, and later check retention of the corrected residence answer. Only written/transcribed text evaluated; no pronunciation rating.
 
 ## Status
 - [x] Instructional source references checked
-- [ ] Question `Wo wohnst du?` independently answered in conversation
+- [x] Question `Wo wohnst du?` answered in conversation; residence expression required correction (`im Iran`)
 - [ ] `wo` vs `woher` comprehension checked
 - [ ] Inflection transfer assessed
 - [ ] Color terms practiced and recalled
