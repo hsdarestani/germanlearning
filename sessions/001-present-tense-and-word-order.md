@@ -1,7 +1,7 @@
 # Session 001 — Präsens & einfache Sätze
 
 **Date:** 2026-11-11
-**State:** First written exercises submitted and evaluated; spoken, listening and reading practice pending — **NOT COMPLETED**
+**State:** Introductory dialogue goals reached in guided voice practice (2026-11-12); additional conjugation, formal listening/reading and pronunciation assessment still pending
 **Level:** Pre-A1 / early A1 provisional
 **Source mapping:** K&K Step 1 (printed pp. 10–11), Step 3 (printed pp. 14–15); PMP Ch. 6 present-tense conjugation, printed pp. 47ff.
 
@@ -24,6 +24,17 @@
 - Observed recurring needs: `wir` conjugation and writing Deutsch correctly. Avoid assuming other errors are recurring without evidence.
 - Assessment limited to written performance. **No recorded spoken, listening, pronunciation or reading performance yet**.
 
+## Guided voice interaction (2026-11-12)
+These were user speech transcriptions in an active voice conversation, not a reliable independent pronunciation measurement.
+- Correctly used `Ich heiße ...` for own name.
+- Initially said `Ich komme aus der Iran`; after tutor correction said `Ich komme aus dem Iran` correctly, repeated it independently on request.
+- Produced complete intro with proper verb forms `Ich heiße ..., ich komme aus dem Iran und ich lerne Deutsch.` after feedback.
+- Said `Du lernst Deutsch` as a statement when asked to ask a question; following a prompt corrected to `Lernst du Deutsch?`.
+- Correctly responded `Ja, ich lerne Deutsch.`.
+- Initially mixed English `Where` with German, then successfully asked `Woher kommst du?` after instruction.
+- Successfully restated the three-sentence introductory script at end. Tutor explicitly closed lesson 001 in conversation.
+- **Evidence:** conversational utterances were produced in voice mode; no separately scored listening comprehension, reading, or acoustic pronunciation test. Correct pattern use in a supported conversation does not establish long-term mastery.
+
 ## Next activity
 1. Start beginner dialogue and elicit a simple self-introduction in German (prefer Voice if user switches; otherwise written chat is not proof of speaking ability).
 2. Check comprehension of questions such as `Wie heißt du?` and `Lernst du Deutsch?`; then offer brief reading and audio-based listening activity.
@@ -44,7 +55,7 @@
 - [x] Independent conjugations evaluated (2/4 correct)
 - [x] Sentence/question transformation evaluated (1/1 correct)
 - [x] Written self-introduction checked (2 attempted; 0 fully correct)
-- [ ] Spoken sample assessed (or explicitly left pending)
-- [ ] Reading and listening assessed (or explicitly left pending)
+- [x] Guided voice dialogue practiced and language content evaluated; pronunciation score still pending
+- [ ] Formal reading and listening assessments still pending
 - [x] Spaced review targets identified (du/wir endings; spelling, capitalization)
-- [ ] PROGRESS, CURRICULUM, VOCABULARY, MISTAKES updated; NEXT_SESSION updated last
+- [x] Lesson 001 conversation recorded in GitHub on 2026-11-14; detailed skills not yet mastered
