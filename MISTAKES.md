@@ -21,6 +21,8 @@ Log only actual learner errors, and avoid publishing sensitive or identifying pe
 
 | 2026-11-14 | Present-tense main verb | Learner answered `Ich bin arbeite` to `Was machst du?` | `Ich arbeite.` No `bin` alongside the conjugated present-tense verb here; `Ich bin bei der Arbeit` has a different structure. | Immediate independent repeat and next-session review | Observed once, correction not yet retested |
 
+| 2026-11-14 | Noun capitalization | Learner wrote `zu hause` in a work-from-home sentence | Write `zu Hause` (capital H); alternatives `im Homeoffice` / `von zu Hause aus` | Next writing sample | Observed once |
+
 ## Logging method
 - Quote a short **non-sensitive** learner-created fragment only when needed to explain a correction.
 - Separate one-off typos from **recurring patterns**.
