@@ -19,6 +19,8 @@ Log only actual learner errors, and avoid publishing sensitive or identifying pe
 
 | 2026-11-14 | Prepositions/articles: location | Said `Ich wohne Iran` after `Wo wohnst du?` | `Ich wohne im Iran` for residence; contrast `Ich komme aus dem Iran` for origin. `im = in dem` | Next independent response | Observed once; not yet mastered |
 
+| 2026-11-14 | Present-tense main verb | Learner answered `Ich bin arbeite` to `Was machst du?` | `Ich arbeite.` No `bin` alongside the conjugated present-tense verb here; `Ich bin bei der Arbeit` has a different structure. | Immediate independent repeat and next-session review | Observed once, correction not yet retested |
+
 ## Logging method
 - Quote a short **non-sensitive** learner-created fragment only when needed to explain a correction.
 - Separate one-off typos from **recurring patterns**.
